@@ -1,7 +1,7 @@
-## Olá sou o Vinicius 👋
-Apaixonado pela linguagem C#
+## Olá sou o Vinicius 
+Apaixonado pela linguagem C# e outras tecnologias.
+## "No matter how hard you train, I want you to know that you will work harder than you"
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonezin&theme=dark&show_icons=true)
 <div style="display: inline_block"><br>
 
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />          
