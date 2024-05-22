@@ -1,6 +1,6 @@
 ## Olá sou o Vinicius 
 Apaixonado pela linguagem C# e outras tecnologias.
-## "No matter how hard you train, I want you to know that you will work harder than you"
+## "No matter how hard you train, I want you to know that I will work harder than you"
 
 <div style="display: inline_block"><br>
 
