@@ -2,6 +2,17 @@
 Apaixonado pela linguagem C# e outras tecnologias.
 ## "No matter how hard you train, I want you to know that I will work harder than you"
 
+
+Sobre mim
+
+-  Desenvolvedor focado em .NET, C# e SQL Server  
+-  Fã de desafios lógicos, sempre buscando evoluir 1% a cada dia  
+-  Atualmente estudando para me tornar referência em desenvolvimento backend  
+-  Criando projetos próprios para aplicar e expandir meus conhecimentos
+
+
+### Tecnologias & Ferramentas
+
 <div style="display: inline_block"><br>
 
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />          
