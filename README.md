@@ -2,7 +2,7 @@
 
 Sobre mim
 
--  Desenvolvedor focado em .NET, C# e SQL Server  
+-  Desenvolvedor focado em .NET, C#, Javascript, Typescript, Java, Node, Angular e SQL Server  
 -  Fã de desafios lógicos, sempre buscando evoluir 1% a cada dia  
 -  Atualmente estudando para me tornar referência em desenvolvimento backend  
 -  Criando projetos próprios para aplicar e expandir meus conhecimentos
@@ -19,8 +19,9 @@ Sobre mim
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   
 </div>
 
