@@ -10,7 +10,7 @@ Sobre mim
 
 ### Tecnologias & Ferramentas
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
 
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />          
   <img align="center"  height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
