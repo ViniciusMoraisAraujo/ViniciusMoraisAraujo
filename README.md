@@ -2,7 +2,7 @@
 
 Focado em .NET, C# e arquitetura de software. Atualmente construindo sistemas com Clean Architecture, Domain-Driven Design e ASP.NET Core — com atenção a código que resiste ao tempo e ao crescimento.
 
-No dia a dia: backend com .NET e frontend com Angular.
+No dia a dia: backend com .NET
 
 ---
 
@@ -11,9 +11,7 @@ No dia a dia: backend com .NET e frontend com Angular.
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" title=".NET" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL Server" title="SQL Server" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" />
 </div>
